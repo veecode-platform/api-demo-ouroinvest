@@ -1,0 +1,8 @@
+site_name: "api-demo-ouroinvest"
+site_description: "api-demo-ouroinvest"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

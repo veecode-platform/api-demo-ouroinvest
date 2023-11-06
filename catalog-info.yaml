@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "api-demo-ouroinvest"
+  description: "api-demo-ouroinvest"
+  annotations:
+    github.com/project-slug: veecode-platform/api-demo-ouroinvest
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: devops
+  lifecycle: development
+  owner: "group:default/admin"
